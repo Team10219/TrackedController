@@ -1,3 +1,5 @@
+As of 8.8.25, REV has created a getControlType() function for REVLib 2026. TrackedController will no longer be recieving updates.
+
 # TrackedController
 
 Wrapper for SparkClosedLoopController that tracks the current control type for logging and debugging.
