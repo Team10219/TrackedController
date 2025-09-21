@@ -1,4 +1,4 @@
-As of 8.8.25, REV has created a getControlType() function for REVLib 2026. TrackedController will no longer be recieving updates.
+As of 9.8.25, REV has created a getControlType() function for REVLib 2026. TrackedController will no longer be recieving updates.
 
 # TrackedController
 
